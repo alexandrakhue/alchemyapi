@@ -1,4 +1,4 @@
-/****
+/****new change****
 	jQuery.extend extracted from the jQuery source & optimised for NodeJS
 	Twitter: @FGRibreau / fgribreau.com
 
